@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1.2" created="2026-09-30 07:32" -->
+	<!-- generator="WordPress/7.1.2" created="2026-09-30 21:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Willow &#38; Veil</title>
 	<link>https://YOUR-DOMAIN.com</link>
 	<description>Luxury bridal hair and makeup in Austin, Texas</description>
-	<pubDate>Wed, 30 Sep 2026 07:32:06 +0000</pubDate>
+	<pubDate>Wed, 30 Sep 2026 21:58:18 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://YOUR-DOMAIN.com</wp:base_site_url>
@@ -63,17 +63,17 @@
 		<item>
 		<title><![CDATA[Bride in a strapless satin gown and long white gloves lifting a sheer cathedral veil overhead in a garden]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-in-a-strapless-satin-gown-and-long-white-gloves-lifting-a-sheer-cathedral-veil-overhead-in-a-garden/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:11 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:41 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bride-veil-gloves.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:11]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:47:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:47:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-in-a-strapless-satin-gown-and-long-white-gloves-lifting-a-sheer-cathedral-veil-overhead-in-a-garden]]></wp:post_name>
@@ -108,17 +108,17 @@
 					<item>
 		<title><![CDATA[Bride with a soft textured updo walking arm in arm with her groom in a sand-colored suit beside the water]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-with-a-soft-textured-updo-walking-arm-in-arm-with-her-groom-in-a-sand-colored-suit-beside-the-water/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:13 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:45 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-lakeside-walk.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:13]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:47:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:47:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-with-a-soft-textured-updo-walking-arm-in-arm-with-her-groom-in-a-sand-colored-suit-beside-the-water]]></wp:post_name>
@@ -153,17 +153,17 @@
 					<item>
 		<title><![CDATA[Two laughing brides with curled half-up hair walking hand in hand through petal confetti, black and white]]></title>
 		<link>https://YOUR-DOMAIN.com/two-laughing-brides-with-curled-half-up-hair-walking-hand-in-hand-through-petal-confetti-black-and-white/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:15 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:47 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/two-brides-confetti.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:15]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:47:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:47:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[two-laughing-brides-with-curled-half-up-hair-walking-hand-in-hand-through-petal-confetti-black-and-white]]></wp:post_name>
@@ -198,17 +198,17 @@
 					<item>
 		<title><![CDATA[Smiling bride with long glossy waves and a pearl necklace holding hands with her groom in a field, black and white]]></title>
 		<link>https://YOUR-DOMAIN.com/smiling-bride-with-long-glossy-waves-and-a-pearl-necklace-holding-hands-with-her-groom-in-a-field-black-and-white/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:16 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:48 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-field-walk.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:16]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:47:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:47:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[smiling-bride-with-long-glossy-waves-and-a-pearl-necklace-holding-hands-with-her-groom-in-a-field-black-and-white]]></wp:post_name>
@@ -243,17 +243,17 @@
 					<item>
 		<title><![CDATA[Groom lifting his bride on a tree-lined lane as her long veil and lace train sweep behind her, black and white]]></title>
 		<link>https://YOUR-DOMAIN.com/groom-lifting-his-bride-on-a-tree-lined-lane-as-her-long-veil-and-lace-train-sweep-behind-her-black-and-white/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:17 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:49 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-lane-embrace.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:17]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:47:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:47:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[groom-lifting-his-bride-on-a-tree-lined-lane-as-her-long-veil-and-lace-train-sweep-behind-her-black-and-white]]></wp:post_name>
@@ -288,17 +288,17 @@
 					<item>
 		<title><![CDATA[Bride with glamorous side-swept waves and a pearl hair comb standing with her groom on a stone riverside terrace, black and white]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-with-glamorous-side-swept-waves-and-a-pearl-hair-comb-standing-with-her-groom-on-a-stone-riverside-terrace-black-and-white/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:19 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:53 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-river-terrace.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:19]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:47:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:47:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-with-glamorous-side-swept-waves-and-a-pearl-hair-comb-standing-with-her-groom-on-a-stone-riverside-terrace-black-and-white]]></wp:post_name>
@@ -333,17 +333,17 @@
 					<item>
 		<title><![CDATA[Bride in an off-the-shoulder gown and veil smiling at her groom as he reads his vows in a hall hung with a tapestry]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-in-an-off-the-shoulder-gown-and-veil-smiling-at-her-groom-as-he-reads-his-vows-in-a-hall-hung-with-a-tapestry/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:21 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:58 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/ceremony-tapestry-hall.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:21]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:47:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:47:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-in-an-off-the-shoulder-gown-and-veil-smiling-at-her-groom-as-he-reads-his-vows-in-a-hall-hung-with-a-tapestry]]></wp:post_name>
@@ -378,17 +378,17 @@
 					<item>
 		<title><![CDATA[Bride with a low bun and cathedral veil looking back over her shoulder beside her groom and a black vintage car]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-with-a-low-bun-and-cathedral-veil-looking-back-over-her-shoulder-beside-her-groom-and-a-black-vintage-car/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:23 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:02 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-vintage-car.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:23]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:48:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-with-a-low-bun-and-cathedral-veil-looking-back-over-her-shoulder-beside-her-groom-and-a-black-vintage-car]]></wp:post_name>
@@ -423,17 +423,17 @@
 					<item>
 		<title><![CDATA[Groom kissing his bride beside a vintage car, her veil lifting in the breeze, black and white]]></title>
 		<link>https://YOUR-DOMAIN.com/groom-kissing-his-bride-beside-a-vintage-car-her-veil-lifting-in-the-breeze-black-and-white/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:24 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:04 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-vintage-car-kiss.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:24]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:48:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[groom-kissing-his-bride-beside-a-vintage-car-her-veil-lifting-in-the-breeze-black-and-white]]></wp:post_name>
@@ -468,17 +468,17 @@
 					<item>
 		<title><![CDATA[Bride with long golden waves in a floral appliqué gown standing with her groom in a green walled garden]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-with-long-golden-waves-in-a-floral-applique-gown-standing-with-her-groom-in-a-green-walled-garden/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:26 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:07 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-garden-toast.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:26]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:48:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-with-long-golden-waves-in-a-floral-applique-gown-standing-with-her-groom-in-a-green-walled-garden]]></wp:post_name>
@@ -513,17 +513,17 @@
 					<item>
 		<title><![CDATA[Bride with sleek hair and a flowing veil dabbing a tear during seaside vows beneath a baby's breath arch]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-with-sleek-hair-and-a-flowing-veil-dabbing-a-tear-during-seaside-vows-beneath-a-babys-breath-arch/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:30 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:12 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/ceremony-seaside-vows.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:30]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 16:48:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-with-sleek-hair-and-a-flowing-veil-dabbing-a-tear-during-seaside-vows-beneath-a-babys-breath-arch]]></wp:post_name>
@@ -556,19 +556,334 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil]]></title>
+		<link>https://YOUR-DOMAIN.com/makeup-artist-applying-berry-lip-color-to-a-bride-in-a-lace-off-the-shoulder-gown-and-veil/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[makeup-artist-applying-berry-lip-color-to-a-bride-in-a-lace-off-the-shoulder-gown-and-veil]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/getting-ready-lip-liner.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:1800;s:4:"file";s:36:"2026/09/getting-ready-lip-liner.webp";s:8:"filesize";i:83026;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:36:"getting-ready-lip-liner-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9168;}s:5:"large";a:5:{s:4:"file";s:37:"getting-ready-lip-liner-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:44538;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"getting-ready-lip-liner-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4178;}s:12:"medium_large";a:5:{s:4:"file";s:37:"getting-ready-lip-liner-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:51800;}s:9:"1536x1536";a:5:{s:4:"file";s:38:"getting-ready-lip-liner-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:72542;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[getting-ready-lip-liner]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding]]></title>
+		<link>https://YOUR-DOMAIN.com/makeup-artist-laughing-with-a-bride-in-a-satin-robe-as-she-prepares-her-for-the-wedding/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:19 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[makeup-artist-laughing-with-a-bride-in-a-satin-robe-as-she-prepares-her-for-the-wedding]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/getting-ready-artist.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1206;s:6:"height";i:804;s:4:"file";s:33:"2026/09/getting-ready-artist.webp";s:8:"filesize";i:55192;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:33:"getting-ready-artist-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11034;}s:5:"large";a:5:{s:4:"file";s:34:"getting-ready-artist-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:50264;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"getting-ready-artist-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5568;}s:12:"medium_large";a:5:{s:4:"file";s:33:"getting-ready-artist-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:35262;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[getting-ready-artist]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Laughing bride with long red waves and a flower crown riding piggyback on her groom in front of giant marquee WEDDING letters]]></title>
+		<link>https://YOUR-DOMAIN.com/laughing-bride-with-long-red-waves-and-a-flower-crown-riding-piggyback-on-her-groom-in-front-of-giant-marquee-wedding-letters/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:20 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-wedding-letters.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[laughing-bride-with-long-red-waves-and-a-flower-crown-riding-piggyback-on-her-groom-in-front-of-giant-marquee-wedding-letters]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-wedding-letters.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/couple-wedding-letters.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:1065;s:4:"file";s:35:"2026/09/couple-wedding-letters.webp";s:8:"filesize";i:145274;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:35:"couple-wedding-letters-300x242.webp";s:5:"width";i:300;s:6:"height";i:242;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:25942;}s:5:"large";a:5:{s:4:"file";s:36:"couple-wedding-letters-1024x826.webp";s:5:"width";i:1024;s:6:"height";i:826;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:132616;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"couple-wedding-letters-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9892;}s:12:"medium_large";a:5:{s:4:"file";s:35:"couple-wedding-letters-768x620.webp";s:5:"width";i:768;s:6:"height";i:620;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:94494;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Laughing bride with long red waves and a flower crown riding piggyback on her groom in front of giant marquee WEDDING letters]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[couple-wedding-letters]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Smiling bride with soft face-framing tendrils and a pearl necklace walking arm in arm with her groom through petal confetti]]></title>
+		<link>https://YOUR-DOMAIN.com/smiling-bride-with-soft-face-framing-tendrils-and-a-pearl-necklace-walking-arm-in-arm-with-her-groom-through-petal-confetti/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:23 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-sunflower-confetti.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[smiling-bride-with-soft-face-framing-tendrils-and-a-pearl-necklace-walking-arm-in-arm-with-her-groom-through-petal-confetti]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-sunflower-confetti.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/couple-sunflower-confetti.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:1521;s:4:"file";s:38:"2026/09/couple-sunflower-confetti.webp";s:8:"filesize";i:228694;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:38:"couple-sunflower-confetti-260x300.webp";s:5:"width";i:260;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:26054;}s:5:"large";a:5:{s:4:"file";s:39:"couple-sunflower-confetti-889x1024.webp";s:5:"width";i:889;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:157628;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"couple-sunflower-confetti-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9558;}s:12:"medium_large";a:5:{s:4:"file";s:38:"couple-sunflower-confetti-768x885.webp";s:5:"width";i:768;s:6:"height";i:885;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128842;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Smiling bride with soft face-framing tendrils and a pearl necklace walking arm in arm with her groom through petal confetti]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[couple-sunflower-confetti]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Bride with a sleek half-up style and pearl drop earrings standing beside her groom in a black tuxedo]]></title>
+		<link>https://YOUR-DOMAIN.com/bride-with-a-sleek-half-up-style-and-pearl-drop-earrings-standing-beside-her-groom-in-a-black-tuxedo/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:25 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-black-tie.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bride-with-a-sleek-half-up-style-and-pearl-drop-earrings-standing-beside-her-groom-in-a-black-tuxedo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-black-tie.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/couple-black-tie.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:1568;s:4:"file";s:29:"2026/09/couple-black-tie.webp";s:8:"filesize";i:87566;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:29:"couple-black-tie-253x300.webp";s:5:"width";i:253;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13626;}s:5:"large";a:5:{s:4:"file";s:30:"couple-black-tie-862x1024.webp";s:5:"width";i:862;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:61890;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"couple-black-tie-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5494;}s:12:"medium_large";a:5:{s:4:"file";s:29:"couple-black-tie-768x912.webp";s:5:"width";i:768;s:6:"height";i:912;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:54188;}s:9:"1536x1536";a:5:{s:4:"file";s:31:"couple-black-tie-1293x1536.webp";s:5:"width";i:1293;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:97356;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Bride with a sleek half-up style and pearl drop earrings standing beside her groom in a black tuxedo]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[couple-black-tie]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Bride with soft waves and her groom posing with vintage rackets by an arched brick doorway, black and white]]></title>
+		<link>https://YOUR-DOMAIN.com/bride-with-soft-waves-and-her-groom-posing-with-vintage-rackets-by-an-arched-brick-doorway-black-and-white/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:29 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-rackets-doorway.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bride-with-soft-waves-and-her-groom-posing-with-vintage-rackets-by-an-arched-brick-doorway-black-and-white]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-rackets-doorway.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/couple-rackets-doorway.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:1580;s:4:"file";s:35:"2026/09/couple-rackets-doorway.webp";s:8:"filesize";i:156600;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:35:"couple-rackets-doorway-251x300.webp";s:5:"width";i:251;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16600;}s:5:"large";a:5:{s:4:"file";s:36:"couple-rackets-doorway-855x1024.webp";s:5:"width";i:855;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:101934;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"couple-rackets-doorway-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6068;}s:12:"medium_large";a:5:{s:4:"file";s:35:"couple-rackets-doorway-768x919.webp";s:5:"width";i:768;s:6:"height";i:919;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:88286;}s:9:"1536x1536";a:5:{s:4:"file";s:37:"couple-rackets-doorway-1283x1536.webp";s:5:"width";i:1283;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:158932;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Bride with soft waves and her groom posing with vintage rackets by an arched brick doorway, black and white]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[couple-rackets-doorway]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Smiling bride with a braided half-up style and loose blonde waves as her veil blows across her groom]]></title>
+		<link>https://YOUR-DOMAIN.com/smiling-bride-with-a-braided-half-up-style-and-loose-blonde-waves-as-her-veil-blows-across-her-groom/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:34 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-veil-breeze.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[smiling-bride-with-a-braided-half-up-style-and-loose-blonde-waves-as-her-veil-blows-across-her-groom]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-veil-breeze.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/couple-veil-breeze.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:751;s:4:"file";s:31:"2026/09/couple-veil-breeze.webp";s:8:"filesize";i:54836;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:31:"couple-veil-breeze-300x171.webp";s:5:"width";i:300;s:6:"height";i:171;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9628;}s:5:"large";a:5:{s:4:"file";s:32:"couple-veil-breeze-1024x583.webp";s:5:"width";i:1024;s:6:"height";i:583;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:44726;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"couple-veil-breeze-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6340;}s:12:"medium_large";a:5:{s:4:"file";s:31:"couple-veil-breeze-768x437.webp";s:5:"width";i:768;s:6:"height";i:437;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:30884;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Smiling bride with a braided half-up style and loose blonde waves as her veil blows across her groom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[couple-veil-breeze]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Bride and six bridesmaids in white satin gowns with polished updos laughing together in a palm garden, black and white]]></title>
 		<link>https://YOUR-DOMAIN.com/bride-and-six-bridesmaids-in-white-satin-gowns-with-polished-updos-laughing-together-in-a-palm-garden-black-and-white/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:34 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:35 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-gowns.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:34]]></wp:post_modified_gmt>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bride-and-six-bridesmaids-in-white-satin-gowns-with-polished-updos-laughing-together-in-a-palm-garden-black-and-white]]></wp:post_name>
@@ -603,17 +918,17 @@
 					<item>
 		<title><![CDATA[Bridesmaids in white waffle robes laughing with paper parasols on the wedding morning]]></title>
 		<link>https://YOUR-DOMAIN.com/bridesmaids-in-white-waffle-robes-laughing-with-paper-parasols-on-the-wedding-morning/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:35 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:37 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-parasols.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:35]]></wp:post_modified_gmt>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bridesmaids-in-white-waffle-robes-laughing-with-paper-parasols-on-the-wedding-morning]]></wp:post_name>
@@ -646,324 +961,9 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Bride and bridesmaids in white robes smiling on a bed holding white paper parasols]]></title>
-		<link>https://YOUR-DOMAIN.com/bride-and-bridesmaids-in-white-robes-smiling-on-a-bed-holding-white-paper-parasols/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:36 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[bride-and-bridesmaids-in-white-robes-smiling-on-a-bed-holding-white-paper-parasols]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/bridal-party-robes.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:854;s:4:"file";s:31:"2026/09/bridal-party-robes.webp";s:8:"filesize";i:64758;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:31:"bridal-party-robes-300x194.webp";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9750;}s:5:"large";a:5:{s:4:"file";s:32:"bridal-party-robes-1024x662.webp";s:5:"width";i:1024;s:6:"height";i:662;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:49294;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"bridal-party-robes-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4558;}s:12:"medium_large";a:5:{s:4:"file";s:31:"bridal-party-robes-768x497.webp";s:5:"width";i:768;s:6:"height";i:497;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:35354;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Bride and bridesmaids in white robes smiling on a bed holding white paper parasols]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[bridal-party-robes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[bridal-party]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil]]></title>
-		<link>https://YOUR-DOMAIN.com/makeup-artist-applying-berry-lip-color-to-a-bride-in-a-lace-off-the-shoulder-gown-and-veil/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:37 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:37]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[makeup-artist-applying-berry-lip-color-to-a-bride-in-a-lace-off-the-shoulder-gown-and-veil]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/getting-ready-lip-liner.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:1800;s:4:"file";s:36:"2026/09/getting-ready-lip-liner.webp";s:8:"filesize";i:83026;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:36:"getting-ready-lip-liner-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9168;}s:5:"large";a:5:{s:4:"file";s:37:"getting-ready-lip-liner-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:44538;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"getting-ready-lip-liner-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4178;}s:12:"medium_large";a:5:{s:4:"file";s:37:"getting-ready-lip-liner-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:51800;}s:9:"1536x1536";a:5:{s:4:"file";s:38:"getting-ready-lip-liner-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:72542;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[getting-ready-lip-liner]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[getting-ready]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding]]></title>
-		<link>https://YOUR-DOMAIN.com/makeup-artist-laughing-with-a-bride-in-a-satin-robe-as-she-prepares-her-for-the-wedding/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:39 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[makeup-artist-laughing-with-a-bride-in-a-satin-robe-as-she-prepares-her-for-the-wedding]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/getting-ready-artist.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1206;s:6:"height";i:804;s:4:"file";s:33:"2026/09/getting-ready-artist.webp";s:8:"filesize";i:55192;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:33:"getting-ready-artist-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11034;}s:5:"large";a:5:{s:4:"file";s:34:"getting-ready-artist-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:50264;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"getting-ready-artist-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5568;}s:12:"medium_large";a:5:{s:4:"file";s:33:"getting-ready-artist-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:35262;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[getting-ready-artist]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[getting-ready]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate]]></title>
-		<link>https://YOUR-DOMAIN.com/model-in-a-white-blazer-dress-with-a-sleek-low-ponytail-posing-by-an-ornate-wrought-iron-gate/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:40 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[model-in-a-white-blazer-dress-with-a-sleek-low-ponytail-posing-by-an-ornate-wrought-iron-gate]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/editorial-iron-gate.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1269;s:6:"height";i:1516;s:4:"file";s:32:"2026/09/editorial-iron-gate.webp";s:8:"filesize";i:133302;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"editorial-iron-gate-251x300.webp";s:5:"width";i:251;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11208;}s:5:"large";a:5:{s:4:"file";s:33:"editorial-iron-gate-857x1024.webp";s:5:"width";i:857;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:79300;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"editorial-iron-gate-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4112;}s:12:"medium_large";a:5:{s:4:"file";s:32:"editorial-iron-gate-768x917.webp";s:5:"width";i:768;s:6:"height";i:917;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:67658;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial-iron-gate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall]]></title>
-		<link>https://YOUR-DOMAIN.com/model-in-a-white-double-breasted-coat-and-lace-leaf-headpiece-with-sculpted-glowing-makeup-against-a-stone-wall/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:41 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[model-in-a-white-double-breasted-coat-and-lace-leaf-headpiece-with-sculpted-glowing-makeup-against-a-stone-wall]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/editorial-leaf-headpiece.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:1587;s:4:"file";s:37:"2026/09/editorial-leaf-headpiece.webp";s:8:"filesize";i:123376;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:37:"editorial-leaf-headpiece-250x300.webp";s:5:"width";i:250;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12286;}s:5:"large";a:5:{s:4:"file";s:38:"editorial-leaf-headpiece-852x1024.webp";s:5:"width";i:852;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:73622;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"editorial-leaf-headpiece-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4370;}s:12:"medium_large";a:5:{s:4:"file";s:37:"editorial-leaf-headpiece-768x923.webp";s:5:"width";i:768;s:6:"height";i:923;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:61880;}s:9:"1536x1536";a:5:{s:4:"file";s:39:"editorial-leaf-headpiece-1278x1536.webp";s:5:"width";i:1278;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:114886;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial-leaf-headpiece]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Glossy brunette waves with a lace leaf-trimmed veil, seen from behind]]></title>
-		<link>https://YOUR-DOMAIN.com/glossy-brunette-waves-with-a-lace-leaf-trimmed-veil-seen-from-behind/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:44 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:44]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[glossy-brunette-waves-with-a-lace-leaf-trimmed-veil-seen-from-behind]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/editorial-veil-waves.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1178;s:6:"height";i:1340;s:4:"file";s:33:"2026/09/editorial-veil-waves.webp";s:8:"filesize";i:88794;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:33:"editorial-veil-waves-264x300.webp";s:5:"width";i:264;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7886;}s:5:"large";a:5:{s:4:"file";s:34:"editorial-veil-waves-900x1024.webp";s:5:"width";i:900;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:57986;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"editorial-veil-waves-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3256;}s:12:"medium_large";a:5:{s:4:"file";s:33:"editorial-veil-waves-768x874.webp";s:5:"width";i:768;s:6:"height";i:874;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:44534;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Glossy brunette waves with a lace leaf-trimmed veil, seen from behind]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial-veil-waves]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sleek twisted updo with gold hoop earrings and glowing skin, seen in profile]]></title>
-		<link>https://YOUR-DOMAIN.com/sleek-twisted-updo-with-gold-hoop-earrings-and-glowing-skin-seen-in-profile/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:45 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-twisted-updo.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sleek-twisted-updo-with-gold-hoop-earrings-and-glowing-skin-seen-in-profile]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-twisted-updo.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/editorial-twisted-updo.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1032;s:6:"height";i:1800;s:4:"file";s:35:"2026/09/editorial-twisted-updo.webp";s:8:"filesize";i:54878;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:35:"editorial-twisted-updo-172x300.webp";s:5:"width";i:172;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6092;}s:5:"large";a:5:{s:4:"file";s:36:"editorial-twisted-updo-587x1024.webp";s:5:"width";i:587;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:31632;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"editorial-twisted-updo-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3450;}s:12:"medium_large";a:5:{s:4:"file";s:36:"editorial-twisted-updo-768x1340.webp";s:5:"width";i:768;s:6:"height";i:1340;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:43158;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"editorial-twisted-updo-881x1536.webp";s:5:"width";i:881;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:50902;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Sleek twisted updo with gold hoop earrings and glowing skin, seen in profile]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial-twisted-updo]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://YOUR-DOMAIN.com/?page_id=3</link>
-		<pubDate>Wed, 30 Sep 2026 07:01:59 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:47:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/?page_id=3</guid>
 		<description></description>
@@ -1042,10 +1042,10 @@
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 07:01:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:01:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 07:01:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:01:59]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-09-30 21:47:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:47:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 21:47:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:47:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -1061,19 +1061,289 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Bride and bridesmaids in white robes smiling on a bed holding white paper parasols]]></title>
+		<link>https://YOUR-DOMAIN.com/bride-and-bridesmaids-in-white-robes-smiling-on-a-bed-holding-white-paper-parasols/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:39 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bride-and-bridesmaids-in-white-robes-smiling-on-a-bed-holding-white-paper-parasols]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/bridal-party-robes.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:854;s:4:"file";s:31:"2026/09/bridal-party-robes.webp";s:8:"filesize";i:64758;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:31:"bridal-party-robes-300x194.webp";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9750;}s:5:"large";a:5:{s:4:"file";s:32:"bridal-party-robes-1024x662.webp";s:5:"width";i:1024;s:6:"height";i:662;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:49294;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"bridal-party-robes-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4558;}s:12:"medium_large";a:5:{s:4:"file";s:31:"bridal-party-robes-768x497.webp";s:5:"width";i:768;s:6:"height";i:497;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:35354;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Bride and bridesmaids in white robes smiling on a bed holding white paper parasols]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal-party-robes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal-party]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Bride and groom celebrating with bridesmaids in sage gowns and groomsmen in black tie in front of a windmill]]></title>
+		<link>https://YOUR-DOMAIN.com/bride-and-groom-celebrating-with-bridesmaids-in-sage-gowns-and-groomsmen-in-black-tie-in-front-of-a-windmill/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:41 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-windmill.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bride-and-groom-celebrating-with-bridesmaids-in-sage-gowns-and-groomsmen-in-black-tie-in-front-of-a-windmill]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-windmill.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/bridal-party-windmill.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:1063;s:4:"file";s:34:"2026/09/bridal-party-windmill.webp";s:8:"filesize";i:88198;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"bridal-party-windmill-300x242.webp";s:5:"width";i:300;s:6:"height";i:242;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16320;}s:5:"large";a:5:{s:4:"file";s:35:"bridal-party-windmill-1024x825.webp";s:5:"width";i:1024;s:6:"height";i:825;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:77906;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"bridal-party-windmill-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6534;}s:12:"medium_large";a:5:{s:4:"file";s:34:"bridal-party-windmill-768x618.webp";s:5:"width";i:768;s:6:"height";i:618;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:56590;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Bride and groom celebrating with bridesmaids in sage gowns and groomsmen in black tie in front of a windmill]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal-party-windmill]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bridal-party]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate]]></title>
+		<link>https://YOUR-DOMAIN.com/model-in-a-white-blazer-dress-with-a-sleek-low-ponytail-posing-by-an-ornate-wrought-iron-gate/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:43 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[model-in-a-white-blazer-dress-with-a-sleek-low-ponytail-posing-by-an-ornate-wrought-iron-gate]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/editorial-iron-gate.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1269;s:6:"height";i:1516;s:4:"file";s:32:"2026/09/editorial-iron-gate.webp";s:8:"filesize";i:133302;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"editorial-iron-gate-251x300.webp";s:5:"width";i:251;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11208;}s:5:"large";a:5:{s:4:"file";s:33:"editorial-iron-gate-857x1024.webp";s:5:"width";i:857;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:79300;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"editorial-iron-gate-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4112;}s:12:"medium_large";a:5:{s:4:"file";s:32:"editorial-iron-gate-768x917.webp";s:5:"width";i:768;s:6:"height";i:917;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:67658;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial-iron-gate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall]]></title>
+		<link>https://YOUR-DOMAIN.com/model-in-a-white-double-breasted-coat-and-lace-leaf-headpiece-with-sculpted-glowing-makeup-against-a-stone-wall/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:46 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[model-in-a-white-double-breasted-coat-and-lace-leaf-headpiece-with-sculpted-glowing-makeup-against-a-stone-wall]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/editorial-leaf-headpiece.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1320;s:6:"height";i:1587;s:4:"file";s:37:"2026/09/editorial-leaf-headpiece.webp";s:8:"filesize";i:123376;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:37:"editorial-leaf-headpiece-250x300.webp";s:5:"width";i:250;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12286;}s:5:"large";a:5:{s:4:"file";s:38:"editorial-leaf-headpiece-852x1024.webp";s:5:"width";i:852;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:73622;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"editorial-leaf-headpiece-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4370;}s:12:"medium_large";a:5:{s:4:"file";s:37:"editorial-leaf-headpiece-768x923.webp";s:5:"width";i:768;s:6:"height";i:923;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:61880;}s:9:"1536x1536";a:5:{s:4:"file";s:39:"editorial-leaf-headpiece-1278x1536.webp";s:5:"width";i:1278;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:114886;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial-leaf-headpiece]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Glossy brunette waves with a lace leaf-trimmed veil, seen from behind]]></title>
+		<link>https://YOUR-DOMAIN.com/glossy-brunette-waves-with-a-lace-leaf-trimmed-veil-seen-from-behind/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:50 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[glossy-brunette-waves-with-a-lace-leaf-trimmed-veil-seen-from-behind]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/editorial-veil-waves.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1178;s:6:"height";i:1340;s:4:"file";s:33:"2026/09/editorial-veil-waves.webp";s:8:"filesize";i:88794;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:33:"editorial-veil-waves-264x300.webp";s:5:"width";i:264;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7886;}s:5:"large";a:5:{s:4:"file";s:34:"editorial-veil-waves-900x1024.webp";s:5:"width";i:900;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:57986;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"editorial-veil-waves-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3256;}s:12:"medium_large";a:5:{s:4:"file";s:33:"editorial-veil-waves-768x874.webp";s:5:"width";i:768;s:6:"height";i:874;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:44534;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Glossy brunette waves with a lace leaf-trimmed veil, seen from behind]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial-veil-waves]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sleek twisted updo with gold hoop earrings and glowing skin, seen in profile]]></title>
+		<link>https://YOUR-DOMAIN.com/sleek-twisted-updo-with-gold-hoop-earrings-and-glowing-skin-seen-in-profile/</link>
+		<pubDate>Wed, 30 Sep 2026 21:48:53 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-twisted-updo.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sleek-twisted-updo-with-gold-hoop-earrings-and-glowing-skin-seen-in-profile]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-twisted-updo.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/editorial-twisted-updo.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1032;s:6:"height";i:1800;s:4:"file";s:35:"2026/09/editorial-twisted-updo.webp";s:8:"filesize";i:54878;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:35:"editorial-twisted-updo-172x300.webp";s:5:"width";i:172;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6092;}s:5:"large";a:5:{s:4:"file";s:36:"editorial-twisted-updo-587x1024.webp";s:5:"width";i:587;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:31632;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"editorial-twisted-updo-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3450;}s:12:"medium_large";a:5:{s:4:"file";s:36:"editorial-twisted-updo-768x1340.webp";s:5:"width";i:768;s:6:"height";i:1340;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:43158;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"editorial-twisted-updo-881x1536.webp";s:5:"width";i:881;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:50902;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Sleek twisted updo with gold hoop earrings and glowing skin, seen in profile]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial-twisted-updo]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wv_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editorial]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Studio portrait of a model with soft bronze eye makeup and loose tendrils in a white plunge dress]]></title>
 		<link>https://YOUR-DOMAIN.com/studio-portrait-of-a-model-with-soft-bronze-eye-makeup-and-loose-tendrils-in-a-white-plunge-dress/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:47 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:56 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-studio-portrait.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:47]]></wp:post_modified_gmt>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[studio-portrait-of-a-model-with-soft-bronze-eye-makeup-and-loose-tendrils-in-a-white-plunge-dress]]></wp:post_name>
@@ -1108,17 +1378,17 @@
 					<item>
 		<title><![CDATA[Willow &amp; Veil lead artist and owner in long white gloves sipping from a crystal coupe, black and white]]></title>
 		<link>https://YOUR-DOMAIN.com/willow-veil-lead-artist-and-owner-in-long-white-gloves-sipping-from-a-crystal-coupe-black-and-white/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:48 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:58 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/owner-coupe-portrait.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:48]]></wp:post_modified_gmt>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[willow-veil-lead-artist-and-owner-in-long-white-gloves-sipping-from-a-crystal-coupe-black-and-white]]></wp:post_name>
@@ -1149,17 +1419,17 @@
 					<item>
 		<title><![CDATA[Willow &amp; Veil lead artist and owner smiling and holding a fan of makeup brushes]]></title>
 		<link>https://YOUR-DOMAIN.com/willow-veil-lead-artist-and-owner-smiling-and-holding-a-fan-of-makeup-brushes/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:48:59 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/owner-portrait.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_modified_gmt>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:48:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:48:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:48:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:48:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[willow-veil-lead-artist-and-owner-smiling-and-holding-a-fan-of-makeup-brushes]]></wp:post_name>
@@ -1190,7 +1460,7 @@
 					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://YOUR-DOMAIN.com/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/home/</guid>
 		<description></description>
@@ -1219,24 +1489,24 @@
 <figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-lakeside-walk-1024x989.webp" alt="Bride with a soft textured updo walking arm in arm with her groom in a sand-colored suit beside the water" class="wp-image-5" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece-852x1024.webp" alt="Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall" class="wp-image-21" /></figure>
+<!-- wp:image {"id":27,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece-852x1024.webp" alt="Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall" class="wp-image-27" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":6,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
 <figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/two-brides-confetti-906x1024.webp" alt="Two laughing brides with curled half-up hair walking hand in hand through petal confetti, black and white" class="wp-image-6" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":22,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves-900x1024.webp" alt="Glossy brunette waves with a lace leaf-trimmed veil, seen from behind" class="wp-image-22" /></figure>
+<!-- wp:image {"id":28,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves-900x1024.webp" alt="Glossy brunette waves with a lace leaf-trimmed veil, seen from behind" class="wp-image-28" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":16,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-parasols-1024x640.webp" alt="Bridesmaids in white waffle robes laughing with paper parasols on the wedding morning" class="wp-image-16" /></figure>
+<!-- wp:image {"id":23,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-parasols-1024x640.webp" alt="Bridesmaids in white waffle robes laughing with paper parasols on the wedding morning" class="wp-image-23" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":24,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-studio-portrait-913x1024.webp" alt="Studio portrait of a model with soft bronze eye makeup and loose tendrils in a white plunge dress" class="wp-image-24" /></figure>
+<!-- wp:image {"id":30,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-studio-portrait-913x1024.webp" alt="Studio portrait of a model with soft bronze eye makeup and loose tendrils in a white plunge dress" class="wp-image-30" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":13,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
@@ -1247,8 +1517,8 @@
 <figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/ceremony-seaside-vows-699x1024.webp" alt="Bride with sleek hair and a flowing veil dabbing a tear during seaside vows beneath a baby&apos;s breath arch" class="wp-image-14" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate-857x1024.webp" alt="Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate" class="wp-image-20" /></figure>
+<!-- wp:image {"id":26,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate-857x1024.webp" alt="Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate" class="wp-image-26" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":9,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
@@ -1276,17 +1546,11 @@
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","className":"wv-marquee","layout":{"type":"default"}} -->
-<div class="wp-block-group alignfull wv-marquee"><!-- wp:paragraph {"className":"wv-marquee__text"} -->
-<p class="wv-marquee__text">Bridal Expertise <span class="wv-sep" aria-hidden="true">✦</span> Enhancing Your Natural Beauty <span class="wv-sep" aria-hidden="true">✦</span> Luxury Experience <span class="wv-sep" aria-hidden="true">✦</span> Reliable &amp; On Time <span class="wv-sep" aria-hidden="true">✦</span> Photo-Ready Results <span class="wv-sep" aria-hidden="true">✦</span></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
 <!-- wp:group {"align":"full","className":"wv-section","layout":{"type":"constrained","contentSize":"1180px"}} -->
 <div class="wp-block-group alignfull wv-section"><!-- wp:columns {"className":"wv-split"} -->
 <div class="wp-block-columns wv-split"><!-- wp:column {"width":"46%"} -->
-<div class="wp-block-column" style="flex-basis:46%"><!-- wp:image {"id":18,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner-683x1024.webp" alt="Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil" class="wp-image-18" /></figure>
+<div class="wp-block-column" style="flex-basis:46%"><!-- wp:image {"id":15,"sizeSlug":"large","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner-683x1024.webp" alt="Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil" class="wp-image-15" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -1317,7 +1581,7 @@
 <!-- wp:group {"align":"full","className":"wv-section wv-bg-blush","layout":{"type":"constrained","contentSize":"1280px"}} -->
 <div class="wp-block-group alignfull wv-section wv-bg-blush"><!-- wp:group {"className":"wv-section-head","layout":{"type":"default"}} -->
 <div class="wp-block-group wv-section-head"><!-- wp:paragraph {"className":"wv-eyebrow"} -->
-<p class="wv-eyebrow">Services &amp; Pricing</p>
+<p class="wv-eyebrow">Investment</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1471,7 +1735,7 @@
 
 <!-- wp:buttons {"className":"wv-center-buttons","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"margin":{"top":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-buttons wv-center-buttons" style="margin-top:var(--wp--preset--spacing--50)"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://YOUR-DOMAIN.com/services-pricing/">View the full price list</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://YOUR-DOMAIN.com/investment/">View the full price list</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
@@ -1612,28 +1876,28 @@
 <!-- /wp:group -->
 
 <!-- wp:gallery {"columns":6,"linkTo":"none","sizeSlug":"large","className":"wv-instagram-feed"} -->
-<figure class="wp-block-gallery has-nested-images columns-6 is-cropped wv-instagram-feed"><!-- wp:image {"id":17,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes-1024x662.webp" alt="Bride and bridesmaids in white robes smiling on a bed holding white paper parasols" class="wp-image-17" /></a></figure>
+<figure class="wp-block-gallery has-nested-images columns-6 is-cropped wv-instagram-feed"><!-- wp:image {"id":24,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes-1024x662.webp" alt="Bride and bridesmaids in white robes smiling on a bed holding white paper parasols" class="wp-image-24" /></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate-857x1024.webp" alt="Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate" class="wp-image-20" /></a></figure>
+<!-- wp:image {"id":26,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate-857x1024.webp" alt="Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate" class="wp-image-26" /></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":11,"sizeSlug":"large","linkDestination":"custom"} -->
 <figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-vintage-car-838x1024.webp" alt="Bride with a low bun and cathedral veil looking back over her shoulder beside her groom and a black vintage car" class="wp-image-11" /></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":19,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist-1024x683.webp" alt="Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding" class="wp-image-19" /></a></figure>
+<!-- wp:image {"id":16,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist-1024x683.webp" alt="Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding" class="wp-image-16" /></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":13,"sizeSlug":"large","linkDestination":"custom"} -->
 <figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-garden-toast-746x1024.webp" alt="Bride with long golden waves in a floral appliqué gown standing with her groom in a green walled garden" class="wp-image-13" /></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":24,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-studio-portrait-913x1024.webp" alt="Studio portrait of a model with soft bronze eye makeup and loose tendrils in a white plunge dress" class="wp-image-24" /></a></figure>
+<!-- wp:image {"id":30,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://www.instagram.com/mualydia.fletcher/"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-studio-portrait-913x1024.webp" alt="Studio portrait of a model with soft bronze eye makeup and loose tendrils in a white plunge dress" class="wp-image-30" /></a></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -1665,11 +1929,11 @@
 <!-- /wp:group -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[Willow &amp; Veil offers luxury bridal hair and makeup in Austin, Texas. Timeless, elevated artistry for brides, bridal parties and family, designed to photograph beautifully.]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:50]]></wp:post_modified_gmt>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1687,14 +1951,14 @@
 					<item>
 		<title><![CDATA[About]]></title>
 		<link>https://YOUR-DOMAIN.com/about/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/about/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","className":"wv-artist wv-bg-blush","layout":{"type":"constrained","contentSize":"820px","wideSize":"1040px"}} -->
 <div class="wp-block-group alignfull wv-artist wv-bg-blush"><!-- wp:group {"align":"wide","className":"wv-artist__media","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide wv-artist__media"><!-- wp:image {"id":25,"sizeSlug":"full","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/owner-coupe-portrait.webp" alt="Willow &amp; Veil lead artist and owner in long white gloves sipping from a crystal coupe, black and white" class="wp-image-25" /></figure>
+<div class="wp-block-group alignwide wv-artist__media"><!-- wp:image {"id":31,"sizeSlug":"full","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/owner-coupe-portrait.webp" alt="Willow &amp; Veil lead artist and owner in long white gloves sipping from a crystal coupe, black and white" class="wp-image-31" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:html -->
@@ -1720,93 +1984,13 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Originally from Oxford, United Kingdom, I’ve recently made Texas my home—and I couldn’t be more inspired.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>My journey in beauty began over a decade ago in the world of film and commercial production, where I developed a deep passion for enhancing natural beauty on camera.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>But it was in the wedding industry where I found my truest calling.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>With over 10 years of experience, I specialize in creating timeless, effortless looks that make you feel confident, elevated, and completely you.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I’m so excited to now bring my expertise to Austin, Texas—serving brides and their loved ones on one of the most meaningful days of their lives.</p>
+<p>Willow &amp; Veil is more than just a business to me — it’s a dream built from years of passion, creativity and a genuine love for making people feel beautiful. After spending over 8 years as a professional makeup artist in the UK, specialising in bridal beauty, I’ve had the privilege of being part of so many special moments and getting to know the incredible women behind them. I’ve always believed that bridal makeup should never hide who you are, but enhance what already makes you feel beautiful and confident. Now, I’m bringing that passion, experience and my own personal journey across the pond to Austin, Texas, where I’m starting a brand-new chapter with Willow &amp; Veil. It’s a huge leap, but one that feels so exciting — creating something of my own, building a beautiful community and continuing to do what I love most: helping women feel confident, radiant and completely themselves on their most special days.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","className":"wv-signoff"} -->
 <p class="has-text-align-center wv-signoff">I can’t wait to be part of your story. <span aria-hidden="true">♡</span></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","className":"wv-section","layout":{"type":"constrained","contentSize":"1120px"}} -->
-<div class="wp-block-group alignfull wv-section"><!-- wp:columns {"className":"wv-split"} -->
-<div class="wp-block-columns wv-split"><!-- wp:column {"width":"42%"} -->
-<div class="wp-block-column" style="flex-basis:42%"><!-- wp:image {"id":26,"sizeSlug":"full","linkDestination":"none","lightbox":{"enabled":false},"className":"wv-portrait"} -->
-<figure class="wp-block-image size-full wv-portrait"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/owner-portrait.webp" alt="Willow &amp; Veil lead artist and owner smiling and holding a fan of makeup brushes" class="wp-image-26" /></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"58%"} -->
-<div class="wp-block-column" style="flex-basis:58%"><!-- wp:group {"className":"wv-story","layout":{"type":"default"}} -->
-<div class="wp-block-group wv-story"><!-- wp:paragraph {"className":"wv-story__small"} -->
-<p class="wv-story__small">Goodbye to</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"className":"wv-story__big"} -->
-<h2 class="wp-block-heading wv-story__big">Oxford, UK</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"className":"wv-rule"} -->
-<p class="wv-rule"><span aria-hidden="true">●</span></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-story__small"} -->
-<p class="wv-story__small">Hello to</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-story__big wv-story__script"} -->
-<p class="wv-story__big wv-story__script">Austin, Texas <span aria-hidden="true">♡</span></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-story__small"} -->
-<p class="wv-story__small">Thank you</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-script"} -->
-<p class="wv-script">to all my regulars, brides, drag queens and amazing clients over the last 8 years.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-story__caps"} -->
-<p class="wv-story__caps">I won’t be able to have made this move without you.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-story__caps"} -->
-<p class="wv-story__caps">As many of you know how much I’ve loved the USA since a little girl and finally making the dream happen.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-script"} -->
-<p class="wv-script">Farewell</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"wv-story__caps"} -->
-<p class="wv-story__caps">And hopefully you can continue to watch my business travel.<br>Love from Lyds <span aria-hidden="true">♡</span></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","className":"wv-marquee","layout":{"type":"default"}} -->
-<div class="wp-block-group alignfull wv-marquee"><!-- wp:paragraph {"className":"wv-marquee__text"} -->
-<p class="wv-marquee__text">Goodbye to Oxford, UK <span class="wv-sep" aria-hidden="true">✦</span> Hello to Austin, Texas <span class="wv-sep" aria-hidden="true">✦</span></p>
-<!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","anchor":"reviews","className":"wv-section wv-bg-blush","layout":{"type":"constrained","contentSize":"1280px"}} -->
@@ -1955,12 +2139,12 @@
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 ]]></content:encoded>
-		<excerpt:encoded><![CDATA[Meet the lead artist and owner of Willow &amp; Veil, a bridal hair and makeup artist originally from Oxford, United Kingdom, now serving brides in Austin, Texas.]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:50]]></wp:post_modified_gmt>
+		<excerpt:encoded><![CDATA[Meet the lead artist and owner of Willow &amp; Veil, bringing over 10 years of bridal hair and makeup artistry to brides in Austin, Texas.]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1978,7 +2162,7 @@
 					<item>
 		<title><![CDATA[Our Team]]></title>
 		<link>https://YOUR-DOMAIN.com/our-team/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/our-team/</guid>
 		<description></description>
@@ -1989,18 +2173,40 @@
 
 <!-- wp:heading {"level":1} -->
 <h1 class="wp-block-heading">The Willow &amp; Veil team</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","className":"wv-team-intro","layout":{"type":"constrained","contentSize":"760px"}} -->
+<div class="wp-block-group alignfull wv-team-intro"><!-- wp:heading -->
+<h2 class="wp-block-heading">Your wedding morning, in very good hands.</h2>
 <!-- /wp:heading -->
 
+<!-- wp:paragraph {"className":"wv-rule"} -->
+<p class="wv-rule"><span aria-hidden="true">●</span></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
-<p>Bundled hair and makeup for the bride and her party, with a team sized to your morning.</p>
+<p>Our Willow &amp; Veil team is carefully curated by Lydia, bringing together talented, fully licensed artists with a variety of specialist skills, luxury kits and amazing personalities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Every artist works to high industry standards, with exceptional hygiene and professionalism at the heart of everything we do. Our team stays up to date with the latest beauty styles, techniques and trends, while always creating looks that feel timeless, elevated and completely you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most importantly, we’re here to make you feel comfortable, relaxed and truly looked after from the moment you sit in our chair.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"wv-signoff"} -->
+<p class="wv-signoff">Beautiful work. Luxury service. Lovely people</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","className":"wv-section wv-section\u002d\u002dtight","layout":{"type":"constrained","contentSize":"1280px"}} -->
 <div class="wp-block-group alignfull wv-section wv-section--tight"><!-- wp:group {"className":"wv-team","layout":{"type":"default"}} -->
 <div class="wp-block-group wv-team"><!-- wp:group {"className":"wv-team-card","layout":{"type":"default"}} -->
-<div class="wp-block-group wv-team-card"><!-- wp:image {"id":26,"sizeSlug":"full","linkDestination":"none","lightbox":{"enabled":false}} -->
-<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/owner-portrait.webp" alt="Willow &amp; Veil lead artist and owner smiling and holding a fan of makeup brushes" class="wp-image-26" /></figure>
+<div class="wp-block-group wv-team-card"><!-- wp:image {"id":32,"sizeSlug":"full","linkDestination":"none","lightbox":{"enabled":false}} -->
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/owner-portrait.webp" alt="Willow &amp; Veil lead artist and owner smiling and holding a fan of makeup brushes" class="wp-image-32" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -2079,7 +2285,11 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","className":"wv-section wv-bg-blush wv-center","layout":{"type":"constrained","contentSize":"760px"}} -->
-<div class="wp-block-group alignfull wv-section wv-bg-blush wv-center"><!-- wp:paragraph {"className":"wv-eyebrow"} -->
+<div class="wp-block-group alignfull wv-section wv-bg-blush wv-center"><!-- wp:paragraph -->
+<p>Bundled hair and makeup for the bride and her party, with a team sized to your morning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"wv-eyebrow"} -->
 <p class="wv-eyebrow">Wedding Party Collections</p>
 <!-- /wp:paragraph -->
 
@@ -2093,17 +2303,17 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://YOUR-DOMAIN.com/services-pricing/#collections">View the collections</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://YOUR-DOMAIN.com/investment/#collections">View the collections</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[Meet the Willow &amp; Veil team of bridal hair and makeup artists serving weddings in and around Austin, Texas.]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:50]]></wp:post_modified_gmt>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team]]></wp:post_name>
@@ -2119,15 +2329,15 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Services &amp; Pricing]]></title>
-		<link>https://YOUR-DOMAIN.com/services-pricing/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<title><![CDATA[Investment]]></title>
+		<link>https://YOUR-DOMAIN.com/investment/</link>
+		<pubDate>Wed, 30 Sep 2026 21:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://YOUR-DOMAIN.com/services-pricing/</guid>
+		<guid isPermaLink="false">https://YOUR-DOMAIN.com/investment/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"full","className":"wv-page-hero","layout":{"type":"constrained","contentSize":"760px"}} -->
 <div class="wp-block-group alignfull wv-page-hero"><!-- wp:paragraph {"className":"wv-eyebrow"} -->
-<p class="wv-eyebrow">Services &amp; Pricing</p>
+<p class="wv-eyebrow">Investment</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1} -->
@@ -2543,15 +2753,15 @@
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 ]]></content:encoded>
-		<excerpt:encoded><![CDATA[Bridal hair and makeup prices in Austin, Texas: Signature Bridal Makeup $325, Signature Bridal Hair $325, bridal party services and wedding party collections.]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:50]]></wp:post_modified_gmt>
+		<excerpt:encoded><![CDATA[Bridal hair and makeup investment in Austin, Texas: Signature Bridal Makeup $325, Signature Bridal Hair $325, bridal party services and wedding party collections.]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[services-pricing]]></wp:post_name>
+		<wp:post_name><![CDATA[investment]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
@@ -2560,13 +2770,13 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[wv_seo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Bridal Hair & Makeup Prices in Austin, TX | Willow & Veil]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Investment | Bridal Hair & Makeup Prices in Austin, TX | Willow & Veil]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Portfolio]]></title>
 		<link>https://YOUR-DOMAIN.com/portfolio/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/portfolio/</guid>
 		<description></description>
@@ -2580,7 +2790,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Brides, bridal parties, wedding mornings and editorial work. Select a photo to view it larger.</p>
+<p>Brides, bridal parties and editorial work. Select a photo to view it larger.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -2629,52 +2839,74 @@
 
 <!-- wp:image {"id":14,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/ceremony-seaside-vows-699x1024.webp" alt="Bride with sleek hair and a flowing veil dabbing a tear during seaside vows beneath a baby&apos;s breath arch" class="wp-image-14" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":15,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner-683x1024.webp" alt="Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil" class="wp-image-15" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":16,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist-1024x683.webp" alt="Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding" class="wp-image-16" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":17,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-wedding-letters-1024x826.webp" alt="Laughing bride with long red waves and a flower crown riding piggyback on her groom in front of giant marquee WEDDING letters" class="wp-image-17" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":18,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-sunflower-confetti-889x1024.webp" alt="Smiling bride with soft face-framing tendrils and a pearl necklace walking arm in arm with her groom through petal confetti" class="wp-image-18" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":19,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-black-tie-862x1024.webp" alt="Bride with a sleek half-up style and pearl drop earrings standing beside her groom in a black tuxedo" class="wp-image-19" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-rackets-doorway-855x1024.webp" alt="Bride with soft waves and her groom posing with vintage rackets by an arched brick doorway, black and white" class="wp-image-20" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/couple-veil-breeze-1024x583.webp" alt="Smiling bride with a braided half-up style and loose blonde waves as her veil blows across her groom" class="wp-image-21" /></figure>
 <!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">Bridal</figcaption></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:gallery {"linkTo":"none","sizeSlug":"large","imageCrop":false,"className":"wv-gallery-bridal-party"} -->
-<figure class="wp-block-gallery has-nested-images columns-default wv-gallery-bridal-party"><!-- wp:image {"id":15,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-gowns-1024x641.webp" alt="Bride and six bridesmaids in white satin gowns with polished updos laughing together in a palm garden, black and white" class="wp-image-15" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":16,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-parasols-1024x640.webp" alt="Bridesmaids in white waffle robes laughing with paper parasols on the wedding morning" class="wp-image-16" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":17,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes-1024x662.webp" alt="Bride and bridesmaids in white robes smiling on a bed holding white paper parasols" class="wp-image-17" /></figure>
-<!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">Bridal Party</figcaption></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:gallery {"linkTo":"none","sizeSlug":"large","imageCrop":false,"className":"wv-gallery-getting-ready"} -->
-<figure class="wp-block-gallery has-nested-images columns-default wv-gallery-getting-ready"><!-- wp:image {"id":18,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-lip-liner-683x1024.webp" alt="Makeup artist applying berry lip color to a bride in a lace off-the-shoulder gown and veil" class="wp-image-18" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":19,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/getting-ready-artist-1024x683.webp" alt="Makeup artist laughing with a bride in a satin robe as she prepares her for the wedding" class="wp-image-19" /></figure>
-<!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">Getting Ready</figcaption></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:gallery {"linkTo":"none","sizeSlug":"large","imageCrop":false,"className":"wv-gallery-editorial"} -->
-<figure class="wp-block-gallery has-nested-images columns-default wv-gallery-editorial"><!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate-857x1024.webp" alt="Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate" class="wp-image-20" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece-852x1024.webp" alt="Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall" class="wp-image-21" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":22,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves-900x1024.webp" alt="Glossy brunette waves with a lace leaf-trimmed veil, seen from behind" class="wp-image-22" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default wv-gallery-bridal-party"><!-- wp:image {"id":22,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-gowns-1024x641.webp" alt="Bride and six bridesmaids in white satin gowns with polished updos laughing together in a palm garden, black and white" class="wp-image-22" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":23,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-twisted-updo-587x1024.webp" alt="Sleek twisted updo with gold hoop earrings and glowing skin, seen in profile" class="wp-image-23" /></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-parasols-1024x640.webp" alt="Bridesmaids in white waffle robes laughing with paper parasols on the wedding morning" class="wp-image-23" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":24,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-studio-portrait-913x1024.webp" alt="Studio portrait of a model with soft bronze eye makeup and loose tendrils in a white plunge dress" class="wp-image-24" /></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-robes-1024x662.webp" alt="Bride and bridesmaids in white robes smiling on a bed holding white paper parasols" class="wp-image-24" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":25,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/bridal-party-windmill-1024x825.webp" alt="Bride and groom celebrating with bridesmaids in sage gowns and groomsmen in black tie in front of a windmill" class="wp-image-25" /></figure>
+<!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">Bridal Party</figcaption></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:gallery {"linkTo":"none","sizeSlug":"large","imageCrop":false,"className":"wv-gallery-editorial"} -->
+<figure class="wp-block-gallery has-nested-images columns-default wv-gallery-editorial"><!-- wp:image {"id":26,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-iron-gate-857x1024.webp" alt="Model in a white blazer dress with a sleek low ponytail posing by an ornate wrought iron gate" class="wp-image-26" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-leaf-headpiece-852x1024.webp" alt="Model in a white double-breasted coat and lace leaf headpiece with sculpted, glowing makeup against a stone wall" class="wp-image-27" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":28,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-veil-waves-900x1024.webp" alt="Glossy brunette waves with a lace leaf-trimmed veil, seen from behind" class="wp-image-28" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":29,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-twisted-updo-587x1024.webp" alt="Sleek twisted updo with gold hoop earrings and glowing skin, seen in profile" class="wp-image-29" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":30,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/images/editorial-studio-portrait-913x1024.webp" alt="Studio portrait of a model with soft bronze eye makeup and loose tendrils in a white plunge dress" class="wp-image-30" /></figure>
 <!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">Editorial</figcaption></figure>
 <!-- /wp:gallery --></div>
 <!-- /wp:group --></div>
@@ -2696,12 +2928,12 @@
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 ]]></content:encoded>
-		<excerpt:encoded><![CDATA[Bridal, bridal party, getting ready and editorial hair and makeup by Willow &amp; Veil, luxury bridal hair and makeup in Austin, Texas.]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:50]]></wp:post_modified_gmt>
+		<excerpt:encoded><![CDATA[Bridal, bridal party and editorial hair and makeup by Willow &amp; Veil, luxury bridal hair and makeup in Austin, Texas.]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
@@ -2719,7 +2951,7 @@
 					<item>
 		<title><![CDATA[FAQ]]></title>
 		<link>https://YOUR-DOMAIN.com/faq/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/faq/</guid>
 		<description></description>
@@ -2751,7 +2983,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Full payment terms are on the <a href="https://YOUR-DOMAIN.com/services-pricing/">Services &amp; Pricing</a> page.</p>
+<p>Full payment terms are on the <a href="https://YOUR-DOMAIN.com/investment/">Investment</a> page.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
@@ -2862,11 +3094,11 @@
 <!-- /wp:group -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[Answers to common questions about booking bridal hair and makeup with Willow &amp; Veil in Austin, Texas: deposits, previews, travel, minimums and bridal parties.]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:51]]></wp:post_modified_gmt>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
@@ -2884,7 +3116,7 @@
 					<item>
 		<title><![CDATA[Contact]]></title>
 		<link>https://YOUR-DOMAIN.com/contact/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:49 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/contact/</guid>
 		<description></description>
@@ -2959,11 +3191,11 @@
 <!-- /wp:group -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[Inquire about bridal hair and makeup with Willow &amp; Veil in Austin, Texas. Share your wedding date, time, location and how many people need hair and makeup.]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:51]]></wp:post_modified_gmt>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2981,23 +3213,23 @@
 					<item>
 		<title><![CDATA[Main menu]]></title>
 		<link>https://YOUR-DOMAIN.com/main-menu/</link>
-		<pubDate>Wed, 30 Sep 2026 07:02:51 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:02 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/main-menu/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About","type":"page","id":28,"url":"https://YOUR-DOMAIN.com/about/","kind":"post-type"} /-->
-<!-- wp:navigation-link {"label":"Our Team","type":"page","id":29,"url":"https://YOUR-DOMAIN.com/our-team/","kind":"post-type"} /-->
-<!-- wp:navigation-link {"label":"Services \u0026amp; Pricing","type":"page","id":30,"url":"https://YOUR-DOMAIN.com/services-pricing/","kind":"post-type"} /-->
-<!-- wp:navigation-link {"label":"Portfolio","type":"page","id":31,"url":"https://YOUR-DOMAIN.com/portfolio/","kind":"post-type"} /-->
-<!-- wp:navigation-link {"label":"FAQ","type":"page","id":32,"url":"https://YOUR-DOMAIN.com/faq/","kind":"post-type"} /-->
-<!-- wp:navigation-link {"label":"Contact","type":"page","id":33,"url":"https://YOUR-DOMAIN.com/contact/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About","type":"page","id":34,"url":"https://YOUR-DOMAIN.com/about/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Our Team","type":"page","id":35,"url":"https://YOUR-DOMAIN.com/our-team/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Investment","type":"page","id":36,"url":"https://YOUR-DOMAIN.com/investment/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Portfolio","type":"page","id":37,"url":"https://YOUR-DOMAIN.com/portfolio/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"FAQ","type":"page","id":38,"url":"https://YOUR-DOMAIN.com/faq/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Contact","type":"page","id":39,"url":"https://YOUR-DOMAIN.com/contact/","kind":"post-type"} /-->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:02:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:02:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:02:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:02:51]]></wp:post_modified_gmt>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[main-menu]]></wp:post_name>
@@ -3011,17 +3243,17 @@
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://YOUR-DOMAIN.com/wp-global-styles-willow-and-veil/</link>
-		<pubDate>Wed, 30 Sep 2026 07:03:02 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 21:49:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://YOUR-DOMAIN.com/wp-global-styles-willow-and-veil/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-30 02:03:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-30 07:03:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-30 02:03:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-30 07:03:02]]></wp:post_modified_gmt>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-30 16:49:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-30 21:49:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-30 16:49:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-30 21:49:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-willow-and-veil]]></wp:post_name>
