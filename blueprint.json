@@ -1,0 +1,41 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"meta": {
+		"title": "Willow & Veil proof of concept",
+		"description": "Luxury bridal hair and makeup, Austin, Texas. Installs the theme, images, pages and menu.",
+		"author": "Willow & Veil"
+	},
+	"landingPage": "/",
+	"preferredVersions": {
+		"php": "8.3",
+		"wp": "latest"
+	},
+	"features": {
+		"networking": true
+	},
+	"steps": [
+		{
+			"step": "setSiteOptions",
+			"options": {
+				"permalink_structure": "/%postname%/",
+				"blogname": "Willow & Veil",
+				"blogdescription": "Luxury bridal hair and makeup in Austin, Texas",
+				"timezone_string": "America/Chicago"
+			}
+		},
+		{
+			"step": "installTheme",
+			"themeData": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Ciprian-Pat/willow-and-veil/main/willow-and-veil.zip"
+			},
+			"options": {
+				"activate": true
+			}
+		},
+		{
+			"step": "runPHP",
+			"code": "<?php require '/wordpress/wp-load.php'; wv_import_content(); flush_rewrite_rules();"
+		}
+	]
+}
